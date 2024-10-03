@@ -19,13 +19,13 @@ After the calculations, Power pivot was used to create and properly manage the r
 
 The insights requested by the management in the form of reports were then drawn from the pivot tables with corresponding charts to visually report the insights.
 Finally the reports were formated and combined into a dashboard that is made sliceable by product category as requested.
-### Reports.
+### Reports
 The management of the business required that reports were made for the following 
 1. The trend of Revenue 
 2. Product by revenue 
 3. % of revenue contributed by each of the product categories.
 4. The revenue realise by each sales team.
 5. The states, their population , median income of each state and the revenue realised from each of the state.
-### Dashboard
+### Dashboard Design
 All of the reports were to make a Dashboard to allow for easy understanding of the insights. The dashboard was also requested to be made filterable by Product Category.
 The dashboard ia then given a beauty colour scheme which alligns with the colours of TMNT Retails.
